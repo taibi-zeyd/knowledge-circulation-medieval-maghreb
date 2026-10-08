@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ar">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>طبقات المشايخ بالمغرب — ترميز تجريبي</title>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>مسودة عمل بحثية.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>
+          النص الأساس: OpenITI،
+          ShamIbadiyya0000107،
+          طبقات المشايخ بالمغرب لأبي العباس الدرجيني.
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+    </body>
+  </text>
+
+</TEI>
