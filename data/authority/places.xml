@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ar">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ملف الأماكن</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>مسودة عمل.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>مستخرَج من نصوص المشروع.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <listPlace>
+      </listPlace>
+    </body>
+  </text>
+</TEI>
